@@ -2,7 +2,7 @@
 
 
 # ─── README.md Template ───────────────────────────────────────────
-readme = """# Green Cycles – SQL & Data Analytics
+
 
 ## 📌 Overview
 This project supports **GreenCYCLES**, a sustainability-focused company, by building and analyzing their operational database.
