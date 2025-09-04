@@ -1,8 +1,6 @@
 
 # Green Cycles 
 
-<br>
-
 ## 📌 Overview
 
 This project supports **GreenCYCLES**, a online movie rental shop, by building and analyzing their operational database.
