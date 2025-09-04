@@ -4,11 +4,10 @@
 
 ## 📌 Overview
 
-This project supports **GreenCYCLES**, a sustainability-focused company, by building and analyzing their operational database.
+This project supports **GreenCYCLES**, a online movie rental shop, by building and analyzing their operational database.
 As a **Data Analyst**, the goal is to:
 - Structure and query customer, sales, and inventory data.
 - Provide **impactful insights** to optimize business decisions.
-- Develop **dashboards and reports** for stakeholders.
 
 
 ## 🔑 Key Features
