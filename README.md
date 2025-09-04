@@ -20,11 +20,7 @@ As a **Data Analyst**, the goal is to:
 
 ## 📂 Repo Organization
 
-- `data/` → raw and cleaned datasets.
-- `notebooks/` → step-by-step SQL & Python analyses.
 - `queries/` → modular SQL scripts for reproducibility.
-- `reports/` → executive summaries & visual dashboards.
-- `src/` → ETL, data cleaning, and visualization tools.
 
 
 ## 🚀 Tech Stack
