@@ -1,6 +1,7 @@
 
 # Green Cycles 
 
+<br>
 
 ## 📌 Overview
 
@@ -9,6 +10,7 @@ As a **Data Analyst**, the goal is to:
 - Structure and query customer, sales, and inventory data.
 - Provide **impactful insights** to optimize business decisions.
 
+<br>
 
 ## 🔑 Key Features
 
@@ -17,11 +19,13 @@ As a **Data Analyst**, the goal is to:
 - 💰 **Sales Insights** – highlight seasonal patterns and growth opportunities.
 - 📈 **Performance Metrics** – track KPIs for long-term sustainability.
 
+<br>
 
 ## 📂 Repo Organization
 
 - `queries/` → modular SQL scripts for reproducibility.
 
+<br>
 
 ## 🚀 Tech Stack
 
@@ -31,6 +35,8 @@ As a **Data Analyst**, the goal is to:
 - **Window Functions** - Performing calculations across partitions of data.
 - **JOINs** - Combining multiple tables to create meaningful relationships.
 - **Functions by Data Type** - Using appropriate functions for text, numerical, and date-based data.
+
+<br>
 
 ## 📊 Insights
 - **Customer Analysis**: 65% of repeat customers drive 80% of revenue.
