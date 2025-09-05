@@ -1,6 +1,7 @@
 # 🎬 Green Cycles  
 
 📌 **Overview**  
+
 This project supports **GreenCYCLES**, an online movie rental shop, by building and analyzing their operational database.  
 As a **Data Analyst**, the goal is to:  
 
