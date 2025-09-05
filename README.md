@@ -23,7 +23,7 @@ As a **Data Analyst**, the goal is to:
 
 ---
 
-🛠 **Tech Stack**  
+🛠 **Skills Utilized**  
 - **PostgreSQL** – Managing and querying structured data.  
 - **Common Table Expressions (CTEs)** – Organizing complex queries.  
 - **Subqueries** – Extracting insights from nested queries.  
