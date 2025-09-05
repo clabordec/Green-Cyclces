@@ -2,9 +2,11 @@
 
 📌 **Overview**  
 
-This project supports **GreenCYCLES**, an online movie rental shop, by building and analyzing their operational database.  
-As a **Data Analyst**, the goal is to:  
+This project supports **GreenCYCLES**, an online movie rental shop, by building and analyzing their operational database.   
 
+---
+
+🎯 **Objectives**  
 - Structure and query customer, sales, and inventory data.  
 - Provide impactful insights to optimize business decisions.  
 
