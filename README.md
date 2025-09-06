@@ -22,11 +22,18 @@ This project supports **GreenCYCLES**, an online movie rental shop, by building 
 
 ---
 
-✨ **Key Features**  
-- 📊 **Customer Analytics** – Identify trends, retention, and high-value customers.  
-- 📦 **Inventory Optimization** – Measure turnover, stock efficiency, and waste reduction.  
-- 💰 **Sales Insights** – Highlight seasonal patterns and growth opportunities.  
-- 📈 **Performance Metrics** – Track KPIs for long-term sustainability.  
+✨ **Features**  
+- **Robust Database Schema** – Normalized structure for efficient querying and reporting.  
+- **Advanced SQL Queries** – Covering sales trends, customer segmentation, inventory optimization, and profitability.  
+- **Performance Optimization** – Indexing, optimized queries, and stored procedures for efficient operations.  
+
+---
+
+📊 **Use Cases** 
+- **Customer Analytics** – Identify trends, retention, and high-value customers.  
+- **Inventory Optimization** – Measure turnover, stock efficiency, and waste reduction.  
+- **Sales Insights** – Highlight seasonal patterns and growth opportunities.  
+- **Performance Metrics** – Track KPIs for long-term sustainability.  
 
 ---
 
