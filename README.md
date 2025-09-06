@@ -31,10 +31,7 @@ This project supports **GreenCYCLES**, an online movie rental shop, by building 
 ---
 
 📂 **Repo Organization**  
-- `queries/` → Modular SQL scripts for reproducibility.
-    - School Analysis.sql
-    - Salary Analysis.sql
-    - Player Career Analysis.sql 
+- `queries/` → Organized SQL queries designed for reuse and transparent, reproducible analysis.
 
 ---
 
