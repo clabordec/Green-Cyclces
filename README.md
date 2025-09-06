@@ -12,6 +12,16 @@ This project supports **GreenCYCLES**, an online movie rental shop, by building 
 
 ---
 
+🛠 **Skills Utilized**  
+- **PostgreSQL** – Managing and querying structured data.  
+- **Common Table Expressions (CTEs)** – Organizing complex queries.  
+- **Subqueries** – Extracting insights from nested queries.  
+- **Window Functions** – Advanced calculations across partitions.  
+- **JOINs** – Combining multiple tables.  
+- **Functions by Data Type** – Optimized operations for text, numeric, and date data.  
+
+---
+
 ✨ **Key Features**  
 - 📊 **Customer Analytics** – Identify trends, retention, and high-value customers.  
 - 📦 **Inventory Optimization** – Measure turnover, stock efficiency, and waste reduction.  
@@ -25,17 +35,15 @@ This project supports **GreenCYCLES**, an online movie rental shop, by building 
 
 ---
 
-🛠 **Skills Utilized**  
-- **PostgreSQL** – Managing and querying structured data.  
-- **Common Table Expressions (CTEs)** – Organizing complex queries.  
-- **Subqueries** – Extracting insights from nested queries.  
-- **Window Functions** – Advanced calculations across partitions.  
-- **JOINs** – Combining multiple tables.  
-- **Functions by Data Type** – Optimized operations for text, numeric, and date data.  
-
----
-
 📊 **Insights**  
 - **Customer Analysis** → 65% of repeat customers drive 80% of revenue.  
 - **Inventory** → Reducing overstock by 12% could save ~$50K annually.  
-- **Sales Trends** → Peak demand occurs in Q2, suggesting targeted campaigns.  
+- **Sales Trends** → Peak demand occurs in Q2, suggesting targeted campaigns.
+
+---
+
+📬 **Contact**  
+👩‍💻 Author: *Chaanyah Laborde*  
+✉️ Email: [chaanyahlaborde@gmail.com](mailto:chaanyahlaborde@gmail.com)  
+🔗 LinkedIn: [claborde](https://www.linkedin.com/in/claborde/)  
+
